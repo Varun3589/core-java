@@ -1,0 +1,16 @@
+control statements are divided into three parts 
+  1)condition statement
+    -if
+    -if else
+    -else if
+    -nested if
+     -switch
+  2) lopping statement
+  -for 
+  -while
+  -do while
+  3)juming statement
+  -continue
+  -break
+  -return
+  
